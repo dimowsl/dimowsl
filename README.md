@@ -42,9 +42,9 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img height="" src=""  />
-</div>
+</div>-->
 
 
 ###
