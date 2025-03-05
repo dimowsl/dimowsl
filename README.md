@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://steamuserimages-a.akamaihd.net/ugc/785161868700582261/0DB8BF049EE9EA5ECCE41B35A1968DD7918B59D1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="" src=""  />
 </div>
 
 
